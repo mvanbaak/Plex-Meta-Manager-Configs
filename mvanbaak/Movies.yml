@@ -23,19 +23,19 @@ collections:
     template:
       name: director
       person: 138
-    radarr_add_missing: true
+    radarr_add_missing: false
   Christopher Nolan:
     template:
       name: director
       person: 525
-    radarr_add_missing: true
+    radarr_add_missing: false
   Tim Burton:
     template:
       name: director
       person: 510
-    radarr_add_missing: true
+    radarr_add_missing: false
   Zack Snyder:
     template:
       name: director
       person: 15217
-    radarr_add_missing: true
+    radarr_add_missing: false
